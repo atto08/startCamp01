@@ -1,3 +1,11 @@
 "하이"
 "세컨드요"
 "세번째유"
+
+echo "# startCamp01" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M master
+git remote add origin https://github.com/atto08/startCamp01.git
+git push -u origin master
