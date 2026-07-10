@@ -9,3 +9,5 @@ git commit -m "first commit"
 git branch -M master
 git remote add origin https://github.com/atto08/startCamp01.git
 git push -u origin master
+
+쉬는시간 2분 남았습니다.
